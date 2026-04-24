@@ -1,0 +1,1 @@
+pip install scikit-fuzzy tensorflow-cpu tensorflow  numpy pandas matplotlib seaborn scikit-learn tensorflow keras jupyter gym notebook scipy mlxtend scikit-surprise gymnasium plotly opencv-python
